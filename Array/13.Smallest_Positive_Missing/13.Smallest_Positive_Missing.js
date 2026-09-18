@@ -1,5 +1,5 @@
 function missingNumber(arr) {
-    // code here
+    // missing number
     arr.sort((a,b)=>a-b);
     
     let res=1;
